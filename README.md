@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @strch666
+- 👀 I’m interested in python developers, scraping, bots
